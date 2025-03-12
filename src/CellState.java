@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
 public enum CellState {
+        DEAD, ALIVE, WILLDEAD, WILLALIVE //cellstates
 }
